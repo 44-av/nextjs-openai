@@ -1,5 +1,4 @@
 import Link from "next/link";
-
 const DrinksList = ({ drinks }) => {
   return (
     <ul className="menu menu-vertical pl-0">
