@@ -13,6 +13,8 @@ const links = [
     href: "/tasks",
     label: "tasks",
   },
+  { href: "/prisma", label: "prisma" },
+
   {
     href: "/query",
     label: "query",
