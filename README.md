@@ -1,6 +1,6 @@
 # Next.js Practice
 
-Welcome to this practice repository, where I explore integrating OpenAI's API with a Next.js application. This project serves as a learning experience to understand how to build web applications with Next.js and enhance them with AI-powered features using OpenAI's capabilities.
+Welcome to this practice repository, where I explore Next.js application. This project serves as a learning experience to understand how to build web applications with Next.js.
 
 ## Table of Contents
 
