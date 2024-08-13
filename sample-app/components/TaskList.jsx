@@ -1,5 +1,5 @@
 import Link from "next/link";
-import DeleteForm from "./DeleteForm";
+import DeleteForm from "./DeleteFrom";
 import { getAllTasks } from "@/utils/actions";
 
 const TaskList = async () => {

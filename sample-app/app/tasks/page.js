@@ -1,9 +1,12 @@
-const TaskPage = () => {
+import TaskFormCustom from "@/components/TaskFormCustom";
+import TaskList from "@/components/TaskList";
+export const dynamic = "force-dynamic";
+const TasksPage = () => {
   return (
-    <div>
-      <h1 className="text-7xl">TaskPage</h1>
+    <div className="max-w-lg">
+      <TaskFormCustom />
+      <TaskList />
     </div>
   );
 };
-
-export default TaskPage;
+export default TasksPage;
