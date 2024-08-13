@@ -1,4 +1,4 @@
-# Next.js & OpenAI Integration Practice
+# Next.js Practice
 
 Welcome to this practice repository, where I explore integrating OpenAI's API with a Next.js application. This project serves as a learning experience to understand how to build web applications with Next.js and enhance them with AI-powered features using OpenAI's capabilities.
 
@@ -18,12 +18,12 @@ Welcome to this practice repository, where I explore integrating OpenAI's API wi
 
 ## About the Project
 
-This project showcases how to set up a Next.js application and integrate it with OpenAI's API. The goal is to create a dynamic and responsive web application that leverages AI functionalities, such as natural language processing and content generation.
+This project showcases how to set up a Next.js application.
 
 ## Technologies Used
 
 - **Next.js** - A React framework for server-side rendering and static site generation.
-- **OpenAI API** - A set of tools provided by OpenAI to integrate AI models and functionalities.
+
 
 ## Getting Started
 
