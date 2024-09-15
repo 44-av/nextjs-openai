@@ -1,4 +1,4 @@
-# Next.js Practice
+# Next.js Task App
 
 Welcome to this practice repository, where I explore Next.js application. This project serves as a learning experience to understand how to build web applications with Next.js.
 
